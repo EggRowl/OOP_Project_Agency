@@ -1,0 +1,51 @@
+Name	Service	Customer	Arrival	Duration
+Fred	missing people	government	9	2
+Meghann	surveillance	government	44	4
+Gisela	Background check	business	28	3
+Emilia	Background check	government	50	1
+Ardys	surveillance	government	43	2
+Lusa	missing people	private	20	4
+Ericka	missing people	private	5	1
+Jessamyn	missing people	government	9	2
+Mireielle	missing people	business	40	4
+Joleen	surveillance	business	48	2
+Meriel	missing people	business	1	2
+Myrtice	inquiry	business	48	3
+Gui	fraud and illegal activity	private	7	4
+Kerrin	fraud and illegal activity	business	33	4
+Marjie	inquiry	private	34	4
+Zaria	fraud and illegal activity	business	5	3
+Rani	fraud and illegal activity	government	26	2
+Karena	Background check	business	1	2
+Odessa	Background check	business	30	1
+Tomasina	fraud and illegal activity	private	14	2
+Michaelina	fraud and illegal activity	private	43	3
+Etta	missing people	private	6	2
+Janey	fraud and illegal activity	government	49	3
+Adore	surveillance	government	34	2
+Rosaline	missing people	business	45	3
+Laurene	inquiry	business	44	1
+Melina	missing people	private	27	1
+Layla	surveillance	government	12	4
+Fayre	Background check	private	46	4
+Millie	surveillance	private	22	4
+Gusella	Background check	private	18	3
+Vivia	fraud and illegal activity	business	27	4
+Mireielle	surveillance	government	26	2
+Candy	missing people	private	26	4
+Berta	surveillance	government	30	1
+Monika	fraud and illegal activity	business	22	3
+Iseabal	Background check	private	20	3
+Carmencita	missing people	government	42	3
+Kristan	inquiry	private	41	2
+Odessa	fraud and illegal activity	government	14	2
+Caryl	inquiry	private	41	1
+Caressa	inquiry	private	50	3
+Claresta	inquiry	private	45	3
+Adele	surveillance	private	50	4
+Tonia	fraud and illegal activity	private	7	2
+Kathi	missing people	government	23	3
+Sidoney	missing people	business	34	2
+Harmonia	Background check	business	7	1
+Linzy	Background check	business	7	2
+Leanna	Background check	business	15	2
